@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value= "BBBB.db"/>
+    <version value="1"/>
+    <list>
+       <!-- <mapping class = "android.support.datasave.Book"/>-->
+        <mapping class="android.support.datasave.Category"/>
+    </list>
+</litepal>
